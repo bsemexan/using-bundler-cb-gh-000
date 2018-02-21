@@ -5,5 +5,5 @@ gem "octokit", "~> 2.0"
 gem "awesome_print"
 gem "hashie"
 
-gem "pry", group :development
-gem  "rspec", group :test
+gem "pry", group => "development"
+gem  "rspec", group => "test"
